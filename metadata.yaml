@@ -1,9 +1,8 @@
 _repo: The-Legend-of-Sir-Lancelot-du-Lac-Studies-upon-its-Origin-Development-and-Position-in-the-Art__46497
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 46497/46497-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Weston, Jessie L. (Jessie Laidlay)
@@ -14,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1384
     wikipedia: http://en.wikipedia.org/wiki/Jessie_Weston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46497#The-Legend-of-Sir-Lancelot-du-Lac-Studies-upon-its-Origin-Development-and-Position-in-the-Art_
 gutenberg_issued: '2014-08-03'
 gutenberg_type: Text
 identifiers:
